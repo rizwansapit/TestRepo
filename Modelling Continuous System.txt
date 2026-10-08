@@ -1,0 +1,8 @@
+Modelling Continuous System
+Steps to Impliment any Equation
+1 Rearrange equation
+2 Add integrator blocks
+3 Label signals
+4 Construct right-hand side
+5 Set Initial Conditions
+
